@@ -1,0 +1,21 @@
+Hardware Requirement:
+    i)  NodeMcu esp8266 module
+    ii) 4-channel Relay module
+    iii) Jumper Wires
+    iv) Veroboard
+    v)  Electrical Wires (For Connection)
+    vi) Power Adapter (5V) 
+    vii) USB Cable
+
+Software Requirement:
+    i) Blynk Application on Smartphone
+    ii) IFTTT (Voice Controlling by Google Assistant)
+    iii) Arduino IDE
+
+Package Requirement :
+    i) This requires ESP8266 support package:
+        Link: https://github.com/esp8266/Arduino
+
+    ii) Download latest Blynk library:
+        Link: https://github.com/blynkkk/blynk-library/releases/latest
+
